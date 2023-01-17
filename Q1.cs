@@ -1,6 +1,6 @@
 ﻿//Q1) 10 passenger names in an array
 
-String[] listArray = new String[5];
+String[] listArray = new String[10];
 
 for (int index = 0; index < listArray.Length; index++)
 {
