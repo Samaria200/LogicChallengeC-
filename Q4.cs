@@ -27,8 +27,6 @@ Console.WriteLine("You are " + ageInWeeks + " Weeks old!");
 int ageInMonths = age * 12;
 Console.WriteLine("You are " + ageInMonths + " Months old!");
 
-bool f = false;
-int match = Convert.ToInt32(f);
 if(year % 4 == 0) { 
     Console.WriteLine("Leap Year Born!");
 }
